@@ -12,6 +12,6 @@
 - The arithmetic operation can be either ‘+’ or ‘-‘. 
 
 
-#Compiling
+# Compiling
 
 - Freescale CodeWarrior IDE version 5.9.0
