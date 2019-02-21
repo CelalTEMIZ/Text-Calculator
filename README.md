@@ -10,6 +10,9 @@
 
 - The arithmetic operation can be either ‘+’ or ‘-‘. 
 
+# Reference Manuel 
+
+- https://www.nxp.com/docs/en/reference-manual/S12CPUV2.pdf
 
 # Compiling
 
@@ -18,3 +21,4 @@
 # Demo
 
   - https://www.youtube.com/watch?v=ucJZQ3Ei87I
+  
