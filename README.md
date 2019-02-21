@@ -1,8 +1,7 @@
-# Text-Calculator
-
-- Text Calculator with Assembly on CodeWarrior IDE.
+# Text-Calculator in Assembly
 
 - A program that reads the string starting from $1200 and computes the results accordingly.
+
 - For instance if starting from $1200 the memory has the string “28.33 + 17.28=” then the program will compute the result and write it to address $1500.
 
 - Strings always end with ‘=’. Put the string at $1200 using ORG and FCC directives.
