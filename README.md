@@ -14,7 +14,7 @@
 
 - https://www.nxp.com/docs/en/reference-manual/S12CPUV2.pdf
 
-# Development Tool and Compiling
+# Development Tool
 
 - Freescale CodeWarrior IDE version 5.9.0
 
